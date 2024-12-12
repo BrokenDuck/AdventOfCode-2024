@@ -14,7 +14,7 @@ Welcome to my Advent of Code 2024 python solutions repository! This project cont
 To get started, make sure you have Python 3 installed. Then, clone the repository:
 
 ```
-
+git clone https://github.com/BrokenDuck/AdventOfCode-2024.git
 ```
 
 🎉 You're all set to start running the solutions!
